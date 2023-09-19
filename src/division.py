@@ -1,6 +1,6 @@
 """
-This script takes 2 numbers from user gives you the division
-It also handles the case if user enters 0 as denominator
+This script takes 2 numbers from user gives you result of division
+also handles an edge case if user enters 0 as a denominator.
 
 @usage python3 division.py 3, 2
 """
