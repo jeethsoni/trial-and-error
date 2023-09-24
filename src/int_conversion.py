@@ -17,7 +17,7 @@ def main():
         int_convert = int(number)  # convert to integer
         print(f"your converted integer number: {int_convert}")
     except ValueError:  # raises error if input is anything other than numbers
-        print(f"sorry, this input is not a valid {number}")
+        print(f"sorry, this input invalid: {number}")
         print("Expected an integer for instance: 1, 2 etc")
 
 
