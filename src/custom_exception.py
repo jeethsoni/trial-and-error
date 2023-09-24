@@ -3,6 +3,7 @@ from negative_value import NegativeValueError
 
 def number_check(number):
     """Method to check if user entered negative number"""
+
     if number < 0:
         raise (NegativeValueError(number))
 
