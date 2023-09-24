@@ -18,7 +18,7 @@ def main():
     except ZeroDivisionError:
         print("oops, you have entered denominator as 0, can't divide by 0")
     else:
-        print("Your final division is: %s" % divide)  # print the final division  # noqa
+        print(f"Your final division is: {divide}")  # print the final division  # noqa
 
 
 if __name__ == "__main__":
