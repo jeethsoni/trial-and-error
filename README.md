@@ -5,6 +5,9 @@
 
 ---
 
+[![linting: pylint](https://img.shields.io/badge/linting-pylint-yellowgreen)](https://github.com/pylint-dev/pylint)
+
+
 ### Description
 
 Oh, do I love the clarity of reading an error. I absolutely enjoyed doing these exercises. I worked with handling the normal errors, file handling errors and also custom exceptions.
